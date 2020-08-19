@@ -1,3 +1,7 @@
 
 hello i am here
+<<<<<<< HEAD
 myname is thien
+=======
+here to conflict huh ?
+>>>>>>> f9daef7553a2edb601c5740c9c2419d90d5c046e
